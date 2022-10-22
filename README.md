@@ -22,7 +22,7 @@ If using EntityLib.h you can create a new player entity, enemy entity, and have 
 
 
 
-##Future plans
+## Future plans
 Detailed documentation of the design idiom.
 
 Serialization through cereal is on the roadmap
